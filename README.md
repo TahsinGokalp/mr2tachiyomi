@@ -32,7 +32,7 @@ Note: MangaRock or other relevant Tachiyomi source extensions must be installed,
 
 ## Method 2: Using Helium Backup (Both Non-Rooted or Rooted devices)
 
-1. Backup MangaRock using [Helium Backup](https://play.google.com/store/apps/details?id=com.koushikdutta.backup&hl=en)
+1. Backup MangaRock using [Helium Backup](https://play.google.com/store/apps/details?id=com.koushikdutta.backup&hl=en) ( Uncheck 'App Data Only' option ) 
 
 2. Copy the file  
 `sdcard:/carbon/com.notabasement.mangarock.android.lotus/com.notabasement.mangarock.android.lotus.ab`  
